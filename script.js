@@ -1,3 +1,5 @@
+alert('Gere sua senha aleatoria')
+
 let slider = document.querySelector('#slider')
 let button = document.querySelector('#btn')
 
